@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+.team {
+  margin: 20px;
+  display: inline-block;
+}
+
+.team img {
+  max-width: 400px;
+  margin-bottom: 10px;
+}
+
+.year {
+  background-color: blue;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
